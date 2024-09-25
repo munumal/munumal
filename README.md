@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @munumal
-- Defined a package named "math_operators",defined three modules inside the "math_operators" directory named "basic_operations.py","advanced_operations.py",
+- Defined a package named "math_operations",defined three modules inside the "math_operators" directory named "basic_operations.py","advanced_operations.py",
 "trigonometric_operations.py"
 
 -To run
