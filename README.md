@@ -10,7 +10,7 @@ or clone the ripository and edit the usecase.py file accordingly
 
 -in cmd
 -
-To run, type “Python File.py” where “File” is your file’s name. For example, if your Python file is named “usecase” type “Python script.py” instead. Press enter to run the command and open the file.
+To run, type “Python File.py” where “File” is your file’s name. For example, if your Python file is named “usecase” type “usecase.py” instead. Press enter to run the command and open the file.
 -
 <!---
 munumal/munumal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
